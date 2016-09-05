@@ -17,6 +17,7 @@
     "node": ">= v4.3.0"
   },
   "dependencies": {
+    "express": "^4.14.0"
   },
   "license": "MIT",
   "scripts": {
