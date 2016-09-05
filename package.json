@@ -20,6 +20,6 @@
   },
   "license": "MIT",
   "scripts": {
-    "start": "node myFirstHTTPServer.js"
+    "start": "index2.js"
   }
 }
