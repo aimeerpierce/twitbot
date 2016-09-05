@@ -1,12 +1,26 @@
 {
-  "name": "319",
-  "version": "0.0.0",
+  "name": "twitbot319",
+  "version": "0.0.1",
   "private": true,
-  "scripts": {
-    "start": "node ./bin/www"
+  "description":"Our first twitter bot",
+  "keywords":[
+    "node"
+  ],
+  "homepage": "https://github.com/aimeerpierce/twitbot",
+  "author": "Aimee Pierce/COMS319",
+  "contributors": [
+    "erelsbernd"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/aimeerpierce/twitbot.git"
   },
+  "bugs:": "https://github.com/aimeerpierce/twitbot/issues",
+  "engines": {
+    "node": ">= v4.3.0"
+  },
+
   "dependencies": {
-<<<<<<< HEAD
     "body-parser": "~1.15.1",
     "cookie-parser": "~1.4.3",
     "debug": "~2.2.0",
@@ -15,11 +29,9 @@
     "morgan": "~1.7.0",
     "serve-favicon": "~2.3.0",
     "twitter": "^1.4.0"
-=======
   },
   "license": "MIT",
   "scripts": {
     "start": "index2.js"
->>>>>>> 21a15febb4d756e600b2a6a7fc0997bbc1110ba3
   }
 }
