@@ -1,0 +1,25 @@
+{
+  "name": "twitbot",
+  "version": "0.0.1",
+  "description": "Our first node server",
+  "keywords": [
+    "node"
+  ],
+  "homepage": "https://github.com/<aimeerpierce>/twitbot",
+  "author": "<Aimee Pierce/COMS319>",
+  "contributors": [],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/<aimeerpierce>/twitbot.git"
+  },
+  "bugs:": "https://github.com/<aimeerpierce>/twitbot/issues",
+  "engines": {
+    "node": ">= v4.3.0"
+  },
+  "dependencies": {
+  },
+  "license": "MIT",
+  "scripts": {
+    "start": "node myFirstHTTPServer.js"
+  }
+}
